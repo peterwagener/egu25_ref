@@ -1,4 +1,4 @@
-# EGU 2024 References
+# EGU 2025 References
 References for EGU 2025 Poster Nr. EGU25-16742
 
 List of References:
